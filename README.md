@@ -10,7 +10,7 @@
 
 **Connect With Me:** 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([linkedin.com/in/shrey-sahay/](https://www.linkedin.com/in/shrey-sahay?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BigJRzJv5T0ynL7htBKkmnQ%3D%3D))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrey-sahay/)
 
 
 **Tech Stack:**
