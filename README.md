@@ -21,7 +21,7 @@
 
 <p><img align="left" width='400px' src="https://github-readme-stats.vercel.app/api?username=sstechz&show_icons=true&locale=en" alt="sstechz" /></p>
 
-<p><img align="left" width='800px' src="https://github-readme-streak-stats.herokuapp.com/?user=sstechz&" alt="sstechz" /></p>
+<p><img align="left" width='720px' src="https://github-readme-streak-stats.herokuapp.com/?user=sstechz&" alt="sstechz" /></p>
 
 
 
