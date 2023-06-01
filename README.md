@@ -19,11 +19,9 @@
 
 <p><img align="left" width='300px' src="https://github-readme-stats.vercel.app/api/top-langs?username=sstechz&show_icons=true&locale=en&layout=compact" alt="sstechz" /></p>
 
-<p><img align="left" width='400px' src="https://github-readme-stats.vercel.app/api?username=sstechz&show_icons=true&locale=en" alt="sstechz" /></p>
+<p><img align="left" width='400px' src="https://github-readme-streak-stats.herokuapp.com/?user=sstechz&" alt="sstechz" /></p>
 
-<p><img align="left" width='720px' src="https://github-readme-streak-stats.herokuapp.com/?user=sstechz&" alt="sstechz" /></p>
-
-
+<p><img align="left" width='720px' src="https://github-readme-stats.vercel.app/api?username=sstechz&show_icons=true&locale=en" alt="sstechz" /></p>
 
 <!--
 **sstechz/sstechz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
